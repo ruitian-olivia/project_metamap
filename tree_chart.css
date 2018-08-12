@@ -1,0 +1,84 @@
+#sidebar{
+    width:10%;
+    height:510px;
+    background: rgba(255, 255, 255, 0.2);
+    /* background-color: transparent; */
+    float:left;
+}
+#content{
+    width:90%;
+    min-width: 1000px;
+    height:510px;
+    background:#ffffff;
+    float:right;
+}
+#footer{
+    height:50px;
+    background:transparent;
+}
+
+button{
+/*     padding: 11px 22px; */
+    color: #1a1c1e;
+    font-size: 15px;
+    letter-spacing: 2.3px;
+    font-weight: 700;
+    background: #fff;
+    margin: 50px 10px 15px 10px;
+}
+
+button.button2{
+    margin: 30px 10px 40px 10px;
+}
+
+button:hover {
+    color:#ffffff;
+    background:transparent;
+
+  }
+
+label{
+    color: #fff;
+    margin: 5px;
+    text-align:center;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+
+/* css about the tree chart */
+#slider{
+    width:110px;
+}
+
+.node {
+    cursor: pointer;
+}
+.node circle{
+    stroke: steelblue;
+    stroke-width: 0.5px;
+}    
+.node text {
+    font: 10px sans-serif;
+}
+.node--internal circle {
+    fill: #555;
+}
+.node--internal text{
+    text-shadow:0 1px 0 #fff,0 -1 px 0 #fff,1px 0 0 #fff,-1px 0 0 #fff;
+}
+.link{
+    fill: none;
+    stroke:steelblue;
+    stroke-opacity: 0.5;
+    stroke-width: 2px;
+    cursor:pointer;
+}
+
+#tooltip{
+	position: absolute;
+	width: 100;
+    height: auto;
+    fill:steelblue;
+   
+}
