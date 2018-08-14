@@ -15,18 +15,19 @@ function RadialTreeChart(treeDepth){
 
     var width = svg.attr('width'),
         height = svg.attr('height'),
-        g = svg.append('g').attr('transform','translate(500,250)');
+        g = svg.append('g').attr('transform','translate(500,270)');
 
    /*  var tree = d3.tree().size([height-50,width-500])
             .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; }); */
     var tree = d3.tree()
-    .size([2 * Math.PI, 500])
+    /* .size([2 * Math.PI, 500]) */
+    .size([2 * Math.PI, 260])
     .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; });
 
     var stratify = d3.stratify()
         .parentId(function(d){return d.id.substring(0,d.id.lastIndexOf('@'));});
     
-    d3.csv("MetaLab.iMetaLab.tree.csv",function(error,data){
+    d3.json("mydata.json",function(error,data){
         if(error) throw error;
         var root = tree(stratify(data));
         

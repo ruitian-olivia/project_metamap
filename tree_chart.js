@@ -15,7 +15,7 @@ function renderTreeChart(treeDepth){
 
     var width = svg.attr('width'),
         height = svg.attr('height'),
-        g = svg.append('g').attr('transform','translate(50,20)');
+        g = svg.append('g').attr('transform','translate(200,20)');
 
     var tree = d3.tree().size([height-50,width-500])
             .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; });
@@ -24,7 +24,7 @@ function renderTreeChart(treeDepth){
         .parentId(function(d){return d.id.substring(0,d.id.lastIndexOf('@'));});
     
     
-    d3.csv("MetaLab.iMetaLab.tree.csv",function(error,data){
+    d3.json("mydata.json",function(error,data){
         if(error) throw error;
 
         var root = tree(stratify(data));

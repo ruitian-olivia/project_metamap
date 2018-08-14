@@ -1,0 +1,597 @@
+[{
+    "id": "cellular organisms",
+    "value": 115.03,
+    "Xu_20161226_MetaproE_1_2": 115.03
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Bacteroidaceae@Bacteroides@Bacteroides cellulosilyticus",
+    "value": 73.41,
+    "Xu_20161226_MetaproE_1_2": 73.41
+}, {
+    "id": "cellular organisms@Bacteria",
+    "value": 115.02,
+    "Xu_20161226_MetaproE_1_2": 115.02
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Deltaproteobacteria@Myxococcales@Myxococcaceae@Corallococcus",
+    "value": 83.17,
+    "Xu_20161226_MetaproE_1_2": 83.17
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Chordata@Mammalia@Rodentia",
+    "value": 74.19,
+    "Xu_20161226_MetaproE_1_2": 74.19
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Chordata@Mammalia@Rodentia@Cricetidae",
+    "value": 74.19,
+    "Xu_20161226_MetaproE_1_2": 74.19
+}, {
+    "id": "cellular organisms@Bacteria@Actinobacteria@Actinobacteria@Bifidobacteriales",
+    "value": 85.28,
+    "Xu_20161226_MetaproE_1_2": 85.28
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Oscillospiraceae@Oscillibacter",
+    "value": 75.39,
+    "Xu_20161226_MetaproE_1_2": 75.39
+}, {
+    "id": "cellular organisms@Bacteria@Actinobacteria@Actinobacteria@Streptomycetales@Streptomycetaceae",
+    "value": 84.79,
+    "Xu_20161226_MetaproE_1_2": 84.79
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Porphyromonadaceae@Porphyromonas@Porphyromonas gingivicanis",
+    "value": 83.98,
+    "Xu_20161226_MetaproE_1_2": 83.98
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Ruminococcaceae@Faecalibacterium",
+    "value": 94.75,
+    "Xu_20161226_MetaproE_1_2": 94.75
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Coprococcus",
+    "value": 84.78,
+    "Xu_20161226_MetaproE_1_2": 84.78
+}, {
+    "id": "cellular organisms@Bacteria@Actinobacteria@Actinobacteria@Streptomycetales",
+    "value": 84.79,
+    "Xu_20161226_MetaproE_1_2": 84.79
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Erysipelotrichia@Erysipelotrichales@Erysipelotrichaceae@Coprobacillus",
+    "value": 78.47,
+    "Xu_20161226_MetaproE_1_2": 78.47
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Blautia@Blautia sp. YL58",
+    "value": 0.0,
+    "Xu_20161226_MetaproE_1_2": 0.0
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli@Lactobacillales@Streptococcaceae",
+    "value": 87.79,
+    "Xu_20161226_MetaproE_1_2": 87.79
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli@Lactobacillales@Streptococcaceae@Streptococcus",
+    "value": 87.14,
+    "Xu_20161226_MetaproE_1_2": 87.14
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Rikenellaceae",
+    "value": 91.3,
+    "Xu_20161226_MetaproE_1_2": 91.3
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Ruminococcaceae@Subdoligranulum",
+    "value": 83.26,
+    "Xu_20161226_MetaproE_1_2": 83.26
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Deltaproteobacteria@Myxococcales",
+    "value": 84.45,
+    "Xu_20161226_MetaproE_1_2": 84.45
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Porphyromonadaceae",
+    "value": 87.63,
+    "Xu_20161226_MetaproE_1_2": 87.63
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales",
+    "value": 108.81,
+    "Xu_20161226_MetaproE_1_2": 108.81
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Deltaproteobacteria@Myxococcales@Myxococcaceae",
+    "value": 83.17,
+    "Xu_20161226_MetaproE_1_2": 83.17
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Chordata",
+    "value": 74.19,
+    "Xu_20161226_MetaproE_1_2": 74.19
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Prevotellaceae",
+    "value": 92.04,
+    "Xu_20161226_MetaproE_1_2": 92.04
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Odoribacteraceae@Odoribacter",
+    "value": 79.55,
+    "Xu_20161226_MetaproE_1_2": 79.55
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Clostridiaceae@Youngiibacter@Youngiibacter fragilis",
+    "value": 83.46,
+    "Xu_20161226_MetaproE_1_2": 83.46
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Clostridiaceae@Youngiibacter",
+    "value": 83.46,
+    "Xu_20161226_MetaproE_1_2": 83.46
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Clostridiaceae@Hungatella",
+    "value": 76.48,
+    "Xu_20161226_MetaproE_1_2": 76.48
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Bacteroidaceae",
+    "value": 107.21,
+    "Xu_20161226_MetaproE_1_2": 107.21
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Bacteroidaceae@Bacteroides",
+    "value": 107.21,
+    "Xu_20161226_MetaproE_1_2": 107.21
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Alphaproteobacteria",
+    "value": 86.53,
+    "Xu_20161226_MetaproE_1_2": 86.53
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Odoribacteraceae",
+    "value": 79.55,
+    "Xu_20161226_MetaproE_1_2": 79.55
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Bacteroidaceae@Bacteroides@Bacteroides uniformis",
+    "value": 74.65,
+    "Xu_20161226_MetaproE_1_2": 74.65
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Bacteroidaceae@Bacteroides@Bacteroides vulgatus",
+    "value": 93.21,
+    "Xu_20161226_MetaproE_1_2": 93.21
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Erysipelotrichia@Erysipelotrichales@Erysipelotrichaceae",
+    "value": 81.16,
+    "Xu_20161226_MetaproE_1_2": 81.16
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Porphyromonadaceae@Macellibacteroides@Macellibacteroides sp. HH-ZS",
+    "value": 74.65,
+    "Xu_20161226_MetaproE_1_2": 74.65
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli@Bacillales@Bacillaceae@Bacillus@Bacillus sp. FJAT-26390",
+    "value": 72.93,
+    "Xu_20161226_MetaproE_1_2": 72.93
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Deltaproteobacteria",
+    "value": 87.82,
+    "Xu_20161226_MetaproE_1_2": 87.82
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Eubacteriaceae@Eubacterium@[Eubacterium] eligens",
+    "value": 87.09,
+    "Xu_20161226_MetaproE_1_2": 87.09
+}, {
+    "id": "cellular organisms@Bacteria@Verrucomicrobia@Verrucomicrobiae@Verrucomicrobiales@Akkermansiaceae@Akkermansia",
+    "value": 77.34,
+    "Xu_20161226_MetaproE_1_2": 77.34
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Butyrivibrio",
+    "value": 76.94,
+    "Xu_20161226_MetaproE_1_2": 76.94
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Butyrivibrio@Butyrivibrio fibrisolvens",
+    "value": 76.94,
+    "Xu_20161226_MetaproE_1_2": 76.94
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Ruminococcaceae",
+    "value": 97.47,
+    "Xu_20161226_MetaproE_1_2": 97.47
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Ruminococcaceae@Subdoligranulum@Subdoligranulum variabile",
+    "value": 83.26,
+    "Xu_20161226_MetaproE_1_2": 83.26
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Dorea@Dorea sp. 5-2",
+    "value": 83.71,
+    "Xu_20161226_MetaproE_1_2": 83.71
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Porphyromonadaceae@Porphyromonas",
+    "value": 83.98,
+    "Xu_20161226_MetaproE_1_2": 83.98
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli@Lactobacillales@Streptococcaceae@Streptococcus@Streptococcus uberis",
+    "value": 87.14,
+    "Xu_20161226_MetaproE_1_2": 87.14
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Erysipelotrichia@Erysipelotrichales@Erysipelotrichaceae@Turicibacter",
+    "value": 77.79,
+    "Xu_20161226_MetaproE_1_2": 77.79
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Prevotellaceae@Prevotella",
+    "value": 92.04,
+    "Xu_20161226_MetaproE_1_2": 92.04
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Ruminococcaceae@Ruminococcus@Ruminococcus callidus",
+    "value": 77.99,
+    "Xu_20161226_MetaproE_1_2": 77.99
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Eubacteriaceae@Eubacterium@Eubacterium ventriosum",
+    "value": 74.16,
+    "Xu_20161226_MetaproE_1_2": 74.16
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Roseburia",
+    "value": 98.04,
+    "Xu_20161226_MetaproE_1_2": 98.04
+}, {
+    "id": "cellular organisms@Bacteria@Verrucomicrobia@Verrucomicrobiae@Verrucomicrobiales",
+    "value": 77.34,
+    "Xu_20161226_MetaproE_1_2": 77.34
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Alphaproteobacteria@Rhodospirillales@Rhodospirillaceae",
+    "value": 78.52,
+    "Xu_20161226_MetaproE_1_2": 78.52
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Roseburia@Roseburia intestinalis",
+    "value": 95.64,
+    "Xu_20161226_MetaproE_1_2": 95.64
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Ruminococcaceae@Faecalibacterium@Faecalibacterium prausnitzii",
+    "value": 94.41,
+    "Xu_20161226_MetaproE_1_2": 94.41
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Blautia",
+    "value": 74.61,
+    "Xu_20161226_MetaproE_1_2": 74.61
+}, {
+    "id": "cellular organisms@Bacteria@Actinobacteria@Actinobacteria@Streptomycetales@Streptomycetaceae@Streptomyces",
+    "value": 84.79,
+    "Xu_20161226_MetaproE_1_2": 84.79
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Roseburia@Roseburia inulinivorans",
+    "value": 74.76,
+    "Xu_20161226_MetaproE_1_2": 74.76
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Alphaproteobacteria@Rhizobiales",
+    "value": 83.2,
+    "Xu_20161226_MetaproE_1_2": 83.2
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli@Bacillales",
+    "value": 80.11,
+    "Xu_20161226_MetaproE_1_2": 80.11
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli@Bacillales@Bacillaceae@Bacillus",
+    "value": 80.11,
+    "Xu_20161226_MetaproE_1_2": 80.11
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Deltaproteobacteria@Myxococcales@Anaeromyxobacteraceae@Anaeromyxobacter@Anaeromyxobacter sp. (strain Fw109-5)",
+    "value": 78.54,
+    "Xu_20161226_MetaproE_1_2": 78.54
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Rikenellaceae@Alistipes@Alistipes shahii",
+    "value": 79.95,
+    "Xu_20161226_MetaproE_1_2": 79.95
+}, {
+    "id": "cellular organisms@Bacteria@Verrucomicrobia@Verrucomicrobiae@Verrucomicrobiales@Akkermansiaceae",
+    "value": 77.34,
+    "Xu_20161226_MetaproE_1_2": 77.34
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Deltaproteobacteria@Desulfovibrionales@Desulfovibrionaceae",
+    "value": 85.14,
+    "Xu_20161226_MetaproE_1_2": 85.14
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Dorea@Dorea longicatena",
+    "value": 77.6,
+    "Xu_20161226_MetaproE_1_2": 77.6
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Deltaproteobacteria@Desulfovibrionales",
+    "value": 85.14,
+    "Xu_20161226_MetaproE_1_2": 85.14
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Bacteroidaceae@Bacteroides@Bacteroides intestinalis",
+    "value": 77.85,
+    "Xu_20161226_MetaproE_1_2": 77.85
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Alphaproteobacteria@Rhizobiales@Rhizobiaceae@Sinorhizobium@Rhizobium meliloti",
+    "value": 77.51,
+    "Xu_20161226_MetaproE_1_2": 77.51
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli@Bacillales@Bacillaceae@Bacillus@Bacillus sp. FJAT-25509",
+    "value": 79.19,
+    "Xu_20161226_MetaproE_1_2": 79.19
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Porphyromonadaceae@Macellibacteroides",
+    "value": 74.65,
+    "Xu_20161226_MetaproE_1_2": 74.65
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Flavobacteriia@Flavobacteriales@Flavobacteriaceae",
+    "value": 74.74,
+    "Xu_20161226_MetaproE_1_2": 74.74
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Rikenellaceae@Alistipes",
+    "value": 91.3,
+    "Xu_20161226_MetaproE_1_2": 91.3
+}, {
+    "id": "cellular organisms@Bacteria@Actinobacteria@Actinobacteria@Bifidobacteriales@Bifidobacteriaceae@Bifidobacterium",
+    "value": 76.39,
+    "Xu_20161226_MetaproE_1_2": 76.39
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Dorea",
+    "value": 84.66,
+    "Xu_20161226_MetaproE_1_2": 84.66
+}, {
+    "id": "cellular organisms@Bacteria@Actinobacteria@Actinobacteria@Streptomycetales@Streptomycetaceae@Streptomyces@Streptomyces viridochromogenes",
+    "value": 84.79,
+    "Xu_20161226_MetaproE_1_2": 84.79
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Chordata@Mammalia@Rodentia@Cricetidae@Neotoma@Neotoma lepida",
+    "value": 74.19,
+    "Xu_20161226_MetaproE_1_2": 74.19
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Alphaproteobacteria@Rhodospirillales",
+    "value": 78.52,
+    "Xu_20161226_MetaproE_1_2": 78.52
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Ruminococcaceae@Anaerotruncus",
+    "value": 75.62,
+    "Xu_20161226_MetaproE_1_2": 75.62
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Cnidaria@Hydrozoa@Anthoathecata",
+    "value": 89.46,
+    "Xu_20161226_MetaproE_1_2": 89.46
+}, {
+    "id": "cellular organisms@Bacteria@Deferribacteres@Deferribacteres@Deferribacterales@Deferribacteraceae",
+    "value": 78.77,
+    "Xu_20161226_MetaproE_1_2": 78.77
+}, {
+    "id": "cellular organisms@Bacteria@Deferribacteres@Deferribacteres@Deferribacterales",
+    "value": 78.77,
+    "Xu_20161226_MetaproE_1_2": 78.77
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Chordata@Mammalia@Rodentia@Cricetidae@Neotoma",
+    "value": 74.19,
+    "Xu_20161226_MetaproE_1_2": 74.19
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Oribacterium@Oribacterium sp. oral taxon 078",
+    "value": 78.17,
+    "Xu_20161226_MetaproE_1_2": 78.17
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales",
+    "value": 105.51,
+    "Xu_20161226_MetaproE_1_2": 105.51
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae",
+    "value": 99.35,
+    "Xu_20161226_MetaproE_1_2": 99.35
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia",
+    "value": 105.54,
+    "Xu_20161226_MetaproE_1_2": 105.54
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Eubacteriaceae",
+    "value": 88.85,
+    "Xu_20161226_MetaproE_1_2": 88.85
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli",
+    "value": 88.47,
+    "Xu_20161226_MetaproE_1_2": 88.47
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Erysipelotrichia",
+    "value": 81.16,
+    "Xu_20161226_MetaproE_1_2": 81.16
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Erysipelotrichia@Erysipelotrichales",
+    "value": 81.16,
+    "Xu_20161226_MetaproE_1_2": 81.16
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa",
+    "value": 89.58,
+    "Xu_20161226_MetaproE_1_2": 89.58
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Cnidaria",
+    "value": 89.46,
+    "Xu_20161226_MetaproE_1_2": 89.46
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Cnidaria@Hydrozoa",
+    "value": 89.46,
+    "Xu_20161226_MetaproE_1_2": 89.46
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli@Lactobacillales@Leuconostocaceae",
+    "value": 0.0,
+    "Xu_20161226_MetaproE_1_2": 0.0
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Thermoanaerobacterales@Thermoanaerobacteraceae",
+    "value": 74.29,
+    "Xu_20161226_MetaproE_1_2": 74.29
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Clostridiaceae@Hungatella@Hungatella hathewayi",
+    "value": 76.48,
+    "Xu_20161226_MetaproE_1_2": 76.48
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Alphaproteobacteria@Rhodospirillales@Rhodospirillaceae@Azospirillum",
+    "value": 78.52,
+    "Xu_20161226_MetaproE_1_2": 78.52
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia",
+    "value": 108.81,
+    "Xu_20161226_MetaproE_1_2": 108.81
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Cnidaria@Hydrozoa@Anthoathecata@Hydridae",
+    "value": 89.46,
+    "Xu_20161226_MetaproE_1_2": 89.46
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Eubacteriaceae@Eubacterium",
+    "value": 88.85,
+    "Xu_20161226_MetaproE_1_2": 88.85
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Alphaproteobacteria@Rhizobiales@Rhizobiaceae",
+    "value": 77.51,
+    "Xu_20161226_MetaproE_1_2": 77.51
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli@Bacillales@Bacillaceae",
+    "value": 80.11,
+    "Xu_20161226_MetaproE_1_2": 80.11
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Porphyromonadaceae@Parabacteroides@Parabacteroides sp. YL27",
+    "value": 78.2,
+    "Xu_20161226_MetaproE_1_2": 78.2
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Cnidaria@Hydrozoa@Anthoathecata@Hydridae@Hydra",
+    "value": 89.46,
+    "Xu_20161226_MetaproE_1_2": 89.46
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Thermoanaerobacterales",
+    "value": 74.29,
+    "Xu_20161226_MetaproE_1_2": 74.29
+}, {
+    "id": "cellular organisms@Eukaryota",
+    "value": 89.58,
+    "Xu_20161226_MetaproE_1_2": 89.58
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Cnidaria@Hydrozoa@Anthoathecata@Hydridae@Hydra@Hydra vulgaris",
+    "value": 89.46,
+    "Xu_20161226_MetaproE_1_2": 89.46
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Flavobacteriia@Flavobacteriales",
+    "value": 74.74,
+    "Xu_20161226_MetaproE_1_2": 74.74
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria",
+    "value": 93.48,
+    "Xu_20161226_MetaproE_1_2": 93.48
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Bacilli@Lactobacillales",
+    "value": 87.79,
+    "Xu_20161226_MetaproE_1_2": 87.79
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Alphaproteobacteria@Rhizobiales@Rhizobiaceae@Sinorhizobium",
+    "value": 77.51,
+    "Xu_20161226_MetaproE_1_2": 77.51
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Clostridiaceae@Clostridium",
+    "value": 80.59,
+    "Xu_20161226_MetaproE_1_2": 80.59
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes",
+    "value": 109.1,
+    "Xu_20161226_MetaproE_1_2": 109.1
+}, {
+    "id": "cellular organisms@Bacteria@Actinobacteria@Actinobacteria@Bifidobacteriales@Bifidobacteriaceae",
+    "value": 85.28,
+    "Xu_20161226_MetaproE_1_2": 85.28
+}, {
+    "id": "cellular organisms@Bacteria@Actinobacteria",
+    "value": 88.06,
+    "Xu_20161226_MetaproE_1_2": 88.06
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Rikenellaceae@Alistipes@Alistipes putredinis",
+    "value": 82.71,
+    "Xu_20161226_MetaproE_1_2": 82.71
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Deltaproteobacteria@Myxococcales@Anaeromyxobacteraceae@Anaeromyxobacter",
+    "value": 78.54,
+    "Xu_20161226_MetaproE_1_2": 78.54
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Odoribacteraceae@Odoribacter@Odoribacter splanchnicus",
+    "value": 70.06,
+    "Xu_20161226_MetaproE_1_2": 70.06
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes",
+    "value": 108.17,
+    "Xu_20161226_MetaproE_1_2": 108.17
+}, {
+    "id": "cellular organisms@Bacteria@Verrucomicrobia",
+    "value": 77.34,
+    "Xu_20161226_MetaproE_1_2": 77.34
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Johnsonella",
+    "value": 76.09,
+    "Xu_20161226_MetaproE_1_2": 76.09
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Johnsonella@Johnsonella ignava",
+    "value": 76.09,
+    "Xu_20161226_MetaproE_1_2": 76.09
+}, {
+    "id": "cellular organisms@Bacteria@Actinobacteria@Actinobacteria",
+    "value": 88.06,
+    "Xu_20161226_MetaproE_1_2": 88.06
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Deltaproteobacteria@Myxococcales@Anaeromyxobacteraceae",
+    "value": 78.54,
+    "Xu_20161226_MetaproE_1_2": 78.54
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Prevotellaceae@Prevotella@Prevotella corporis",
+    "value": 77.39,
+    "Xu_20161226_MetaproE_1_2": 77.39
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Bacteroidaceae@Bacteroides@Bacteroides salanitronis",
+    "value": 0.0,
+    "Xu_20161226_MetaproE_1_2": 0.0
+}, {
+    "id": "cellular organisms@Bacteria@Deferribacteres",
+    "value": 78.77,
+    "Xu_20161226_MetaproE_1_2": 78.77
+}, {
+    "id": "cellular organisms@Eukaryota@Metazoa@Chordata@Mammalia",
+    "value": 74.19,
+    "Xu_20161226_MetaproE_1_2": 74.19
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Thermoanaerobacterales@Thermoanaerobacteraceae@Moorella",
+    "value": 74.29,
+    "Xu_20161226_MetaproE_1_2": 74.29
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Eubacteriaceae@Eubacterium@Eubacterium plexicaudatum",
+    "value": 74.73,
+    "Xu_20161226_MetaproE_1_2": 74.73
+}, {
+    "id": "cellular organisms@Bacteria@Verrucomicrobia@Verrucomicrobiae",
+    "value": 77.34,
+    "Xu_20161226_MetaproE_1_2": 77.34
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Bacteroidaceae@Bacteroides@Bacteroides massiliensis",
+    "value": 90.56,
+    "Xu_20161226_MetaproE_1_2": 90.56
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Clostridiaceae",
+    "value": 86.24,
+    "Xu_20161226_MetaproE_1_2": 86.24
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Flavobacteriia@Flavobacteriales@Flavobacteriaceae@Flavobacterium",
+    "value": 74.74,
+    "Xu_20161226_MetaproE_1_2": 74.74
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Flavobacteriia",
+    "value": 74.74,
+    "Xu_20161226_MetaproE_1_2": 74.74
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Ruminococcaceae@Ruminococcus",
+    "value": 82.73,
+    "Xu_20161226_MetaproE_1_2": 82.73
+}, {
+    "id": "cellular organisms@Bacteria@Deferribacteres@Deferribacteres",
+    "value": 78.77,
+    "Xu_20161226_MetaproE_1_2": 78.77
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Roseburia@Roseburia hominis",
+    "value": 71.09,
+    "Xu_20161226_MetaproE_1_2": 71.09
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Ruminococcaceae@Ruminococcus@Ruminococcus flavefaciens",
+    "value": 76.8,
+    "Xu_20161226_MetaproE_1_2": 76.8
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Lachnospiraceae@Oribacterium",
+    "value": 78.17,
+    "Xu_20161226_MetaproE_1_2": 78.17
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Thermoanaerobacterales@Thermoanaerobacteraceae@Moorella@Moorella thermoacetica",
+    "value": 74.29,
+    "Xu_20161226_MetaproE_1_2": 74.29
+}, {
+    "id": "cellular organisms@Bacteria@Proteobacteria@Deltaproteobacteria@Desulfovibrionales@Desulfovibrionaceae@Bilophila",
+    "value": 84.98,
+    "Xu_20161226_MetaproE_1_2": 84.98
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Clostridiaceae@Butyricicoccus",
+    "value": 76.02,
+    "Xu_20161226_MetaproE_1_2": 76.02
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Odoribacteraceae@Odoribacter@Odoribacter laneus",
+    "value": 77.38,
+    "Xu_20161226_MetaproE_1_2": 77.38
+}, {
+    "id": "cellular organisms@Bacteria@Bacteroidetes@Bacteroidia@Bacteroidales@Porphyromonadaceae@Parabacteroides",
+    "value": 82.94,
+    "Xu_20161226_MetaproE_1_2": 82.94
+}, {
+    "id": "cellular organisms@Bacteria@Firmicutes@Clostridia@Clostridiales@Oscillospiraceae",
+    "value": 75.39,
+    "Xu_20161226_MetaproE_1_2": 75.39
+}]
